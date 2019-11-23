@@ -1,0 +1,28 @@
+total 17
+drwxr-xr-x 1 Anastasia 197121   0 ноя 23 23:15 ./
+drwxr-xr-x 1 Anastasia 197121   0 ноя 23 23:16 ../
+-rw-r--r-- 1 Anastasia 197121  19 ноя 23 23:10 COMMIT_EDITMSG
+-rw-r--r-- 1 Anastasia 197121 193 ноя 23 23:01 config
+-rw-r--r-- 1 Anastasia 197121  73 ноя 23 23:00 description
+-rw-r--r-- 1 Anastasia 197121  26 ноя 23 23:15 HEAD
+drwxr-xr-x 1 Anastasia 197121   0 ноя 23 23:00 hooks/
+-rw-r--r-- 1 Anastasia 197121 217 ноя 23 23:15 index
+drwxr-xr-x 1 Anastasia 197121   0 ноя 23 23:00 info/
+drwxr-xr-x 1 Anastasia 197121   0 ноя 23 23:04 logs/
+drwxr-xr-x 1 Anastasia 197121   0 ноя 23 23:10 objects/
+drwxr-xr-x 1 Anastasia 197121   0 ноя 23 23:00 refs/
+total 8
+drwxr-xr-x 1 Anastasia 197121 0 ноя 23 23:17 ./
+drwxr-xr-x 1 Anastasia 197121 0 ноя 23 23:17 ../
+drwxr-xr-x 1 Anastasia 197121 0 ноя 23 23:17 19/
+drwxr-xr-x 1 Anastasia 197121 0 ноя 23 23:10 1b/
+drwxr-xr-x 1 Anastasia 197121 0 ноя 23 23:09 34/
+drwxr-xr-x 1 Anastasia 197121 0 ноя 23 23:04 46/
+drwxr-xr-x 1 Anastasia 197121 0 ноя 23 23:03 4b/
+drwxr-xr-x 1 Anastasia 197121 0 ноя 23 23:04 66/
+drwxr-xr-x 1 Anastasia 197121 0 ноя 23 23:17 7a/
+drwxr-xr-x 1 Anastasia 197121 0 ноя 23 23:10 89/
+drwxr-xr-x 1 Anastasia 197121 0 ноя 23 23:04 a8/
+drwxr-xr-x 1 Anastasia 197121 0 ноя 23 23:17 be/
+drwxr-xr-x 1 Anastasia 197121 0 ноя 23 23:00 info/
+drwxr-xr-x 1 Anastasia 197121 0 ноя 23 23:00 pack/
